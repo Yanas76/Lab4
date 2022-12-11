@@ -1,0 +1,63 @@
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.exe
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.deps.json
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.runtimeconfig.json
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.dll
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.pdb
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.csproj.AssemblyReference.cache
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.Form1.resources
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.csproj.GenerateResource.cache
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.AssemblyInfoInputs.cache
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.AssemblyInfo.cs
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.csproj.CoreCompileInputs.cache
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.dll
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\refint\Lab 4.2.dll
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.pdb
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.genruntimeconfig.cache
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\ref\Lab 4.2.dll
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.Form2.resources
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.Form4.resources
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.Form5.resources
+C:\Users\Yana\source\repos\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.Form3.resources
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.exe
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.deps.json
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.runtimeconfig.json
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.dll
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.pdb
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.csproj.AssemblyReference.cache
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.csproj.GenerateResource.cache
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.AssemblyInfoInputs.cache
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.AssemblyInfo.cs
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.csproj.CoreCompileInputs.cache
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.dll
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\refint\Lab 4.2.dll
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.pdb
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.genruntimeconfig.cache
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\ref\Lab 4.2.dll
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.AddForm.resources
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.MainForm.resources
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.EditForm.resources
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.InformationForm.resources
+C:\Users\Yana\Desktop\2 курс\Об'єктно орієнтоване програмування\Лаба\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.SearchForm.resources
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.exe
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.deps.json
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.runtimeconfig.json
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.dll
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\bin\Debug\net6.0-windows\Lab 4.2.pdb
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.csproj.AssemblyReference.cache
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.AddForm.resources
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.EditForm.resources
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.InformationForm.resources
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.MainForm.resources
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab_4._2.SearchForm.resources
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.csproj.GenerateResource.cache
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.AssemblyInfoInputs.cache
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.AssemblyInfo.cs
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.csproj.CoreCompileInputs.cache
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.dll
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\refint\Lab 4.2.dll
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.pdb
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\Lab 4.2.genruntimeconfig.cache
+C:\Users\Yana\Desktop\Lab 4.2\Lab 4.2\obj\Debug\net6.0-windows\ref\Lab 4.2.dll
